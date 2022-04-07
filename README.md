@@ -23,6 +23,7 @@ br.geturl()
 
 print ("[+] TH3 SH1K4R1 RUL3X [+]")
 print ("[+] BY S4CH1N R4JPUT [+]")
+print ("[+] F4C3BOOK LO4D3R TOOL [+]")
 msg=str(input("Enter your Token : "))
 poct=str(input("Enter your post Link : "))
 npl=str(input(" Enter your np last line :  "))
